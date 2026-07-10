@@ -20,6 +20,18 @@ img{
 p{
     padding:0px;
 }
+main{
+    max-width:20 rem;
+    
+}
+main img{
+    width: 150px;
+    height: auto;
+    border: 1px solid rgb(0 0 0/0.1);
+    padding: 1 rem;
+    box-shadow: 0 0 30px rgb(128 128 128);
+    
+}
 aside{
     width: 20rem;
     margin: 1rem;
@@ -30,21 +42,9 @@ aside{
     text-align: center;
 
 }
-main{
-    max-width:20 rem;
-
-}
 aside img{
-    width: 200px;
-    height: auto;
-}
-main img{
-    width: 150px;
-    height: auto;
-    border: 1px solid rgb(0 0 0/0.1);
-    padding: 1 rem;
-    box-shadow: 0 0 30px rgb(128 128 128);
-    
+     width: 200px;
+     height: auto;
 }
 footer{
     margin-top: 15px;
