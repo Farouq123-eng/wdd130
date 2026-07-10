@@ -21,16 +21,14 @@ p{
     padding:0px;
 }
 main{
-    max-width:20 rem;
-    
+    max-width: 20rem;
 }
 main img{
     width: 150px;
     height: auto;
     border: 1px solid rgb(0 0 0/0.1);
-    padding: 1 rem;
+    padding: 1rem;
     box-shadow: 0 0 30px rgb(128 128 128);
-    
 }
 aside{
     width: 20rem;
